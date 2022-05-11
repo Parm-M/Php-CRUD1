@@ -4,7 +4,7 @@
 class fruit{
     // Not with Default value
 
-    public $name, $age;
+    // public $name, $age;
     
     // With Default Value
     // public $name = "John Doe";
